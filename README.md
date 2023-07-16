@@ -19,7 +19,8 @@ Import and visualize the data by doing the following: Using Leaflet, create a ma
 ![image](https://github.com/dclaxto1/JavaScript-Leaflet-Challenge/assets/128431134/64024f9b-4250-48c2-bf9e-2ef20d7498a8)
 
 
-## Part 2: Gather and Plot More Data (Optional with no extra points earned) Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site.. This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
+## Part 2: Gather and Plot More Data.
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site.. This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.
 
 Perform the following tasks: Plot the tectonic plates dataset on the map in addition to the earthquakes. Add other base maps to choose from. Put each dataset into separate overlays that can be turned on and off independently. Add layer controls to your map.
 ![image](https://github.com/dclaxto1/JavaScript-Leaflet-Challenge/assets/128431134/d0a52c0a-d963-4aba-8224-befc54be57e2)
