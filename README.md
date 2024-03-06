@@ -6,7 +6,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Instructions The instructions for this activity are broken into two parts: Part 1: Create the Earthquake Visualization Part 2: Gather and Plot More Data.
 
-## Part 1: Create the Earthquake Visualization  
+## Part 1: Create the Earthquake Visualization    
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
